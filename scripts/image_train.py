@@ -3,6 +3,7 @@ Train a diffusion model on images.
 """
 
 import argparse
+import os
 
 from improved_diffusion import dist_util, logger
 from improved_diffusion.image_datasets import load_data
