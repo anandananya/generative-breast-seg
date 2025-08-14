@@ -1,10 +1,7 @@
-# improved-diffusion
-
-This is the codebase for [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672).
 
 # Usage
 
-This section of the README walks through how to train and sample from a model.
+This section of the README walks through how to train and sample from a model. This is a modified improved_diffusion which utilizes diffusion methods for segmentation.
 
 ## Installation
 
